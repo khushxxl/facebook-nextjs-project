@@ -13,7 +13,7 @@ function Login() {
       <div className="pt-10">
         <h1
           onClick={signIn}
-          className="p-5  bg-blue-500 rounded-full text-white text-center cursor-pointer"
+          className="p-5  bg-black rounded-full text-white text-center cursor-pointer"
         >
           Login with Facebook
         </h1>
